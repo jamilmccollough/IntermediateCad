@@ -10,7 +10,7 @@
 
 ### Image
 
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="400">
+<img src="https://github.com/jamilmccollough/IntermediateCad/blob/main/Images/deck.png?raw=true" width="800">
 
 ### Reflection
 
