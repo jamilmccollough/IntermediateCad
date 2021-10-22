@@ -1,1 +1,25 @@
-# IntermediateCad
+# Intermediate CAD
+
+## 2.1 The Skateboard Deck
+
+### Description
+
+
+### Evidence
+[My Skateboard on Onshape](https://cvilleschools.onshape.com/documents/6baab9fb097df6b58a92d237/w/5241268dacacac49dc0e04f6/e/4afc0e4a4ee1aa73a86a8fa9?renderMode=0&uiState=61730c8a54fb872a465ca45d)
+
+### Image
+
+<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="400">
+
+### Reflection
+
+
+
+* sketching (shortcut **shift-s**)
+* constructions lines (shortcut **Q**)
+* dimensions (shortcut **D**)
+* extruding both add and remove (shortcut key **E**)
+
+
+---
