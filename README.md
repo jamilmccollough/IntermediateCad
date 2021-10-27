@@ -7,7 +7,7 @@ The goal was to create a skatebaord deck and to do that I had to sketch a center
 
 <img src="https://github.com/jamilmccollough/IntermediateCad/blob/main/Images/deck.png?raw=true" width="800">
 
-### Reflection
+### Reflection 
 
 * sketching (shortcut **shift-s**)
 * constructions lines (shortcut **Q**)
