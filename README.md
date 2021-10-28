@@ -20,14 +20,16 @@ The goal was to create a skatebaord deck and to do that I had to sketch a center
 
 ## 2.2 The Trucks
 
+### Description 
+
+
+### Image
+
 <img src="https://github.com/jamilmccollough/IntermediateCad/blob/main/Images/deck.png?raw=true" width="800">
 
 ### Reflection
 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
+
 
 
 ---
