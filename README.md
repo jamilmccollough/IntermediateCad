@@ -22,10 +22,10 @@ The goal was to create a skatebaord deck and to do that I had to sketch a center
 
 ### Description 
 
-
+The goal 2
 ### Image
 
-<img src="https://github.com/jamilmccollough/IntermediateCad/blob/main/Images/deck.png?raw=true" width="800">
+<img src="https://github.com/jamilmccollough/circuitpython/blob/main/Pictures/Pictures%20Cad.png?raw=true" width="800">
 
 ### Reflection
 
