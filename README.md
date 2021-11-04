@@ -32,7 +32,7 @@ The Use tool takes the edges of parts and sketches and brings them onto the acti
 
 ## 2.3 Wheel and Bearings
 
-<img src="https://github.com/jamilmccollough/circuitpython/blob/main/Pictures/Pictures%20Cad.png?raw=true" width="800">
+<img src="https:/https://github.com/jamilmccollough/IntermediateCad/blob/main/Images/wheel_bearing.png?raw=true/github.com/jamilmccollough/circuitpython/blob/main/Pictures/Pictures%20Cad.png?raw=true" width="800">
 
 ### Reflection
-
+The Revolve tool allowed me to revole a 2D image fully around an axis to make a wheel. The Fillet tool applies the correct feature to the edge of a sketch (F + Shift). 
