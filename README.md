@@ -20,16 +20,19 @@ The goal was to create a skatebaord deck and to do that I had to sketch a center
 
 ## 2.2 The Trucks
 
-### Description 
+<img src="https://github.com/jamilmccollough/circuitpython/blob/main/Pictures/Pictures%20Cad.png?raw=true" width="800">
 
-The goal 2
-### Image
+### Reflection
+
+The Use tool takes the edges of parts and sketches and brings them onto the active sketch. The Corner Rectangle tool gives you a corner rectangle. The Diameter tool is used to dimension circles. 
+
+
+
+---
+
+## 2.3 Wheel and Bearings
 
 <img src="https://github.com/jamilmccollough/circuitpython/blob/main/Pictures/Pictures%20Cad.png?raw=true" width="800">
 
 ### Reflection
 
-
-
-
----
